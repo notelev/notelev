@@ -6,7 +6,7 @@
 -->
 
 - Primarily using [Kotlin](https://kotlinlang.org/) & [Python](https://www.python.org/)
-- I’m currently learning [Reacthttps://reactjs.org/]() *for fun*
+- I’m currently learning [React](https://reactjs.org/) *for fun*
 - In love with [TypeScript](https://www.typescriptlang.org).
 - As you might already have noticed I'm Morocca.
 - Just incase you wanna know my OG nickname, It is *X*.
