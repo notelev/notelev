@@ -5,7 +5,7 @@
 
 -->
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vd6137w1mmoljstuez9vnggpt&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vd6137w1mmoljstuez9vnggpt&redirect=true)
 
 *Sorry there isn't much to see here, most of my projects are closed and untested source*
 
