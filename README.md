@@ -1,4 +1,5 @@
 ### About Me
+![Metrics](https://metrics.lecoq.io/notelev?template=classic&base.indepth=false&base.hireable=false&config.timezone=Africa%2FCasablanca)
 
 <!--
 **notelev/notelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
